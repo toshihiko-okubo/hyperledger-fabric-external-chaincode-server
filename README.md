@@ -1,4 +1,5 @@
 # hyperledger-fabric-external-chaincode-server
+This repository is an example of running chaincode in the Local environment
 
 ## Requirement
 - golang 1.14
